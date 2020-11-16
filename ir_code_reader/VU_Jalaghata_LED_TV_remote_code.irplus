@@ -1,0 +1,20 @@
+<irplus>
+<device manufacturer="VU" model="43 LED TV Remote" columns="12" format="WINLIRC_NEC1" rowSplit="8">
+<button label="&#61457;" labelSize="25.0" span="6" backgroundColor="FFC84334">0x10EF 0xEB14</button>
+<button label="&#1045889;" labelSize="25.0" span="6">0x10EF 0xFB04</button>
+<button label="INPUT" labelSize="18.0" span="4">0x10EF 0xC33C</button>
+<button label="VOL+" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FFB5DCF7">0x10EF 0xC13E</button>
+<button label="VOL-" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FFB5DCF7">0x10EF 0x619E</button>
+<button label="MENU" labelSize="18.0" span="4" backgroundColor="FF0040FF">0x10EF 0x2BD4</button>
+<button label="&#61656;" labelSize="25.0" span="4" backgroundColor="FF696969">0x10EF 0x49B6</button>
+<button label="PICTURE" labelSize="18.0" span="4">0x10EF 0x43BC</button>
+<button label="&#61657;" labelSize="25.0" span="4" backgroundColor="FF696969">0x10EF 0xE916</button>
+<button label="OK" labelSize="25.0" span="4" backgroundColor="FF696969">0x10EF 0xD926</button>
+<button label="&#61658;" labelSize="25.0" span="4" backgroundColor="FF696969">0x10EF 0xF906</button>
+<button label="EXIT" labelSize="18.0" span="4">0x10EF 0x3BC4</button>
+<button label="&#61655;" labelSize="25.0" span="4" backgroundColor="FF696969">0x10EF 0x1BE4</button>
+<button label="ZOOM" labelSize="18.0" span="4">0x10EF 0x41BE</button>
+<button label="&#61461; DISPLAY" labelSize="12.0" span="8" backgroundColor="FFFF8000">0x10EF 0x51AE</button>
+
+</device>
+</irplus>

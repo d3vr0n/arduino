@@ -1,0 +1,38 @@
+#
+# this config file was created manually
+#
+# contributed by Avishek
+#
+# brand:  Atomberg
+# model no. Renesa Fan
+#
+
+begin remote
+
+  name  Atomberg_renesa
+  bits           24
+  flags XMP
+  eps            20
+  aeps          300
+
+  one             0   137
+  zero          250   710
+  ptrail        250
+  pre_data_bits   32
+  pre_data       0x170F443E
+  post_data_bits  8
+  post_data      0x0
+  pre           250 12921
+  gap          81698
+  toggle_bit_mask 0x0
+
+      begin codes
+          KEY_LED                  0xCFE916                  #  Was: LED
+          KEY_PWR                  0xCF8976                  #  Was: Power
+          KEY_SPDPLUS              0xCF29D6                  #  Was: Speed +
+          KEY_SPDMINUS             0xCFA956                  #  Was: Speed -
+          KEY_BOOST                0xCFF10E                  #  Was: Boost
+          KEY_SLEEP                0xCF718E                  #  Was: Sleep
+      end codes
+
+end remote

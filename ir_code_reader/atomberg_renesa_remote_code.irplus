@@ -1,0 +1,17 @@
+<irplus>
+<device manufacturer="Atomberg" model="Renessa Fan Remote" columns="4" format="WINLIRC_NEC1" rowSplit="4">
+<button label="&#61457;" labelSize="25.0" span="4" backgroundColor="FFC84334">0xCF 0x8976</button>
+
+
+<button label="SPD+" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FFB5DCF7">0xCF 0x29D6</button>
+<button label="SPD-" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FFB5DCF7">0xCF 0xA956</button>
+
+
+<button label="Boost" labelSize="25.0" span="4" labelColor="FFDF0101" backgroundColor="FFFFFFFF">0xCF 0xF10E</button>
+
+
+<button label="LED" labelSize="18.0" span="4" backgroundColor="FF0040FF">0xCF 0xE916</button>
+
+<button label="Sleep" labelSize="18.0" span="4">0xCF 0x718E</button>
+</device>
+</irplus>
